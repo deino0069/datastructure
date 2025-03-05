@@ -1,5 +1,5 @@
 var = 0
-def search(lst,num):
+def search(lst,num): # Function: Used to perform linear search.
     global var
     for i in range(len(lst)):
        var = i

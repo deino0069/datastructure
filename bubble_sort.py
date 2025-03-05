@@ -1,4 +1,4 @@
-def bubbleSorting(nums):
+def bubbleSorting(nums): # Function: Used to perform bubble sorting.
     for i in range(len(nums)-1,0,-1):
         for j in range(i):
             if nums[j] > nums[j+1]:

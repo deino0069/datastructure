@@ -1,4 +1,4 @@
-def binary_search(arr, n):
+def binary_search(arr, n): # Function: Used to perform binary search.
     l = 0
     u = len(arr) - 1
 
